@@ -1,4 +1,4 @@
-### Oii! eu sou a Keitiely Silva👋
+### Oii! eu sou a Keitiely Silva ☕
 
 
 - 🌱 Estudando 1º semestre Eng. Software
