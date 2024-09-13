@@ -3,7 +3,7 @@
 
 - 🌱 Estudando 1º semestre Eng. Software
 - 💬 contate-me no email: keitielysilvaviana@gmail.com
-- 😄 Pronouns: ela/dela
+- ✨ Git estudantil
 
 <div>
   <a href="https://github.com/keitiely">
