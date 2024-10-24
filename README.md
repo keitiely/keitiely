@@ -1,7 +1,7 @@
-### Oii! eu sou a Keitiely Silva ☕
+### Olá! Prazer, eu sou a Keitiely Silva ☕
 
 
-- 🌱 Estudando 1º semestre Eng. Software
+- 🌱 Estudando 2º semestre Eng. Software
 - 💬 contate-me no email: keitielysilvaviana@gmail.com
 - ✨ Git estudantil
 
