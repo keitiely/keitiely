@@ -1,4 +1,4 @@
-### Olá! Prazer, eu sou a Keitiely Silva ☕
+### Olá! Prazer, eu sou a Keity ☕
 
 
 - 🌱 Estudando 3º semestre Eng. Software
