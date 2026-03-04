@@ -1,7 +1,7 @@
 ### Olá! Prazer, eu sou a Keity ☕
 
 
-- 🌱 Estudando 4º semestre Eng. Software
+- 🌱 Estudando 5º semestre Eng. Software
 - 💬 contate-me no email: keitielysilvaviana@gmail.com
 - ✨ Git estudantil
 
