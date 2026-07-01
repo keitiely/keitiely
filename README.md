@@ -15,7 +15,7 @@ Engenheira de Software em formação. Desenvolvendo soluções escaláveis, apli
 </div>
 
 ### 
-- 🌱 Estudante de Engenharia de Software (6º semestre • CR 9,54)
+- 🌱 Estudante de Engenharia de Software (6º semestre)
 - 🍎 Desenvolvedora na Apple Developer Academy
 - 📱 3 aplicativos publicados na App Store
 - 🏆 3x Hackathon Winner
