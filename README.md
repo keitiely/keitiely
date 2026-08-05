@@ -19,7 +19,7 @@ Engenheira de Software em formação. Desenvolvendo soluções escaláveis, apli
 - 🍎 Desenvolvedora na Apple Developer Academy
 - 📱 3 aplicativos publicados na App Store
 - 🏆 3x Hackathon Winner
-- 💻 Interesse em Engenharia de Software e Mobile 
+- 💻 Interesse em Engenharia de Software e Desenvolvimento iOS
 - 🌎 Sempre aprendendo novas tecnologias
 
 
